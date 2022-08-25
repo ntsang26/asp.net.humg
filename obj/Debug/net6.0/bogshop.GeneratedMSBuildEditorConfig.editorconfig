@@ -15,8 +15,12 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Learn\ASP.net\bogshop
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Learn/ASP.net/bogshop/Views/Demo/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVtb1xJbmRleC5jc2h0bWw=
+[D:/Learn/ASP.net/bogshop/Views/Excercise/PTBH.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhjZXJjaXNlXFBUQkguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Learn/ASP.net/bogshop/Views/Excercise/PTBN.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhjZXJjaXNlXFBUQk4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Learn/ASP.net/bogshop/Views/Home/Index.cshtml]
