@@ -1,0 +1,16 @@
+<form asp-action="Create">
+  <div class="mb-3">
+    <label for="studentID" class="form-label">Student ID:</label>
+    <input type="number" class="form-control" id="studentID" name="StudentID">
+  </div>
+  <div class="mb-3">
+    <label for="studentName" class="form-label">Họ tên:</label>
+    <input type="text" class="form-control" id="studentName" name="StudentName">
+  </div>
+  <div class="mb-3">
+    <label for="age" class="form-label">Tuổi</label>
+    <input type="text" class="form-control" id="age" name="Age">
+  </div>
+  <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+<h2>@ViewBag.Result</h2>

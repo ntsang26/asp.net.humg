@@ -1,0 +1,18 @@
+<h1>View Employee/Index</h1>
+
+<form asp-action="Index" class="col-4">
+  <div class="mb-3">
+    <label for="EmployeeID" class="form-label">Employee ID:</label>
+    <input type="number" class="form-control" id="EmployeeID" name="EmployeeID">
+  </div>
+  <div class="mb-3">
+    <label for="EmployeeName" class="form-label">Họ tên:</label>
+    <input type="text" class="form-control" id="EmployeeName" name="EmployeeName">
+  </div>
+  <div class="mb-3">
+    <label for="Address" class="form-label">Địa Chỉ</label>
+    <input type="text" class="form-control" id="Address" name="Address">
+  </div>
+  <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+<h2>@ViewBag.Result</h2>
