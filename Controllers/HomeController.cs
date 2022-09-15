@@ -6,8 +6,19 @@ namespace bogshop.Controllers;
 
 public class HomeController : Controller
 {
-  public IActionResult Index()
+  public IActionResult Index(float a = 2, float b=5)
   {
+    if (Convert.ToBoolean(a))
+    {
+      if (a != 0)
+      {
+        ViewBag.Result = $"Phương trình có nghiệm: x = {-b / a}";
+      }
+      else
+      {
+        ViewBag.Result = "Phương trình vô nghiệm!";
+      }
+    }
     return View();
   }
 
