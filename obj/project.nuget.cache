@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rX4b5S/ozb9rfeg+oRt0dqMfOvKBgt0wrZpGuNCpuZ5O8Olvo9KDFjfNGt52ZJ1OW4xN8oiMXXRfxUYIcIVyxA==",
+  "dgSpecHash": "PBTGJVC/CshuNln2yGUeU9ufwxftXeJFfum+7RHJCbbxa7uERbE1NDp8kUcCj5kFMydOaPYZEhr39/P+6v4Cvw==",
   "success": true,
-  "projectFilePath": "D:\\Learn\\ASP.net\\bogshop\\bogshop.csproj",
+  "projectFilePath": "/Users/bogdev/Dev/asp.net/asp.net.humg/bogshop.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
